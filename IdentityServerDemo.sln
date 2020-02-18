@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingsAPI", "GreetingsAPI\GreetingsAPI.csproj", "{2CD95228-DE08-4086-B52B-C61A0E652AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationServer", "AuthenticationServer\AuthenticationServer.csproj", "{DEE4A761-1A85-4F94-AA79-C63385F33413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApplication", "ClientApplication\ClientApplication.csproj", "{6F65FC6A-69E0-47A4-8CB7-61E1F3294D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD95228-DE08-4086-B52B-C61A0E652AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD95228-DE08-4086-B52B-C61A0E652AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD95228-DE08-4086-B52B-C61A0E652AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD95228-DE08-4086-B52B-C61A0E652AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE4A761-1A85-4F94-AA79-C63385F33413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE4A761-1A85-4F94-AA79-C63385F33413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE4A761-1A85-4F94-AA79-C63385F33413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE4A761-1A85-4F94-AA79-C63385F33413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F65FC6A-69E0-47A4-8CB7-61E1F3294D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F65FC6A-69E0-47A4-8CB7-61E1F3294D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F65FC6A-69E0-47A4-8CB7-61E1F3294D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F65FC6A-69E0-47A4-8CB7-61E1F3294D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
